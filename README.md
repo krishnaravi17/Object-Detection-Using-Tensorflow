@@ -1,8 +1,8 @@
 # Object-Detection-Using-Tensorflow
-##Objective:
+## Objective:
 Object detection within images.
 
-##Description:
+## Description:
 
 1. Object detection is one of the important fields in data science which is widely used in modern world.
 2. In this project we are using tenserflow and in this we are using our pre-trained model which Single Shot MultiBox
